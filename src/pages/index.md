@@ -16,7 +16,7 @@ sections:
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
-    image_position: left
+    image_position: right
     has_background: false
     background:
       background_color: gray
